@@ -4,8 +4,8 @@ pandas
 seaborn
 jupyter
 pyarrow
+missingno
 scikit-learn
-torch
-accelerate
-transformers
-datasets
+xgboost
+lightgbm
+optuna
