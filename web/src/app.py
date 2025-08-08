@@ -4,8 +4,9 @@ import numpy as np
 import os
 
 # Load model and scaler
-MODEL_PATH = os.path.join("web", "src", "model.pkl")
-SCALER_PATH = os.path.join("web", "src", "scaler.pkl")
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(CURRENT_DIR, "model.pkl")
+SCALER_PATH = os.path.join(CURRENT_DIR, "scaler.pkl")
 
 with open(MODEL_PATH, "rb") as f:
     model = pickle.load(f)
