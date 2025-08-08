@@ -20,7 +20,6 @@ Pipfile.lock
 *.db
 *.sqlite
 
-*.pkl
 *.joblib
 *.h5
 
