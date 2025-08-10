@@ -87,7 +87,7 @@ On the training set, the stacked model achieved:
 - **F1-score:** `0.9398`
 - **ROC AUC:** `0.9691`
 
-On the Kaggle conest over a hidden test set:
+On the Kaggle contest over a hidden test set:
 
 - **Highest score**: `0.978137`
 
