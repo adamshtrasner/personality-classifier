@@ -89,9 +89,9 @@ On the training set, the stacked model achieved:
 
 On the Kaggle conest over a hidden test set:
 
-- **Highest score**: 0.978137
+- **Highest score**: `0.978137`
 
-- **My score**: 0.973279
+- **My score**: `0.973279`
 
 ---
 
